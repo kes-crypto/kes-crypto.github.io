@@ -2,8 +2,8 @@
 name: "Tour Afrika"
 title: "Tour Afrika"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo-no-background.png'
-favicon: 'assets/images/logo-black.png'
+logo: 'assets/images/tour-afrika-high-resolution-logo-grayscale-transparent.png'
+favicon: 'assets/images/tour-afrika-favicon.png'
 baseurl: "https://kes-crypto.github.io"
 url: "https://kes-crypto.github.io"
 google_analytics: 'UA-xxxxxxxx-1'
