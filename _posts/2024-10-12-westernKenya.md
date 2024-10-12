@@ -3,7 +3,7 @@ layout: post
 title:  "Top Tourist Destinations in Western Kenya."
 author: Kes
 categories: [ Travel, Tourism ]
-tags: [ TourAfrica, Kisumu, Western Kenya ]
+tags: [ TourAfrica, Kisumu, WesternKenya ]
 image: assets/images/kisumuHeader.jpg
 description: "Discover the hidden Gems in western Kenya"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 
 Western Kenya is a region rich in culture, history, and breathtaking landscapes. It offers visitors the opportunity to experience both the tranquility of nature and the vibrancy of local traditions. From lush forests and waterfalls to historical landmarks, Western Kenya is a must-visit destination for nature lovers, adventurers, and culture enthusiasts alike. Here are some top places to visit.
 
-<h3> 1. Kakamega Forest National Reserve </h3>
+<a href="#Kakamega Forest National Reserve"> <h3> 1. Kakamega Forest National Reserve </h3> </a>
 Kakamega Forest is the only tropical rainforest in Kenya, boasting an impressive variety of flora and fauna. This ancient forest is home to over 380 species of birds, including the rare Great Blue Turaco, and more than 400 species of butterflies. It’s perfect for bird watchers, nature enthusiasts, and those who seek a peaceful retreat.
 
 <img src="../assets/images/kakamegaForest.jpg" alt="kakamegaForest">
@@ -23,7 +23,7 @@ Kakamega Forest is the only tropical rainforest in Kenya, boasting an impressive
 </ul>
 
 
-<h3> 2. Kit Mikayi </h3>
+<a href="#Kit Mikayi"> <h3> 2. Kit Mikayi </h3> </a>
 Kit Mikayi, which translates to "the stone of the first wife" in Luo language, is a large rock formation about 40 meters high. The rock is steeped in Luo mythology and is a significant spiritual site. Visitors can explore the caves and enjoy the scenic beauty of the surrounding landscape.
 
 <img src="../assets/images/kitmikayi.jpg" alt="kitmikayi">
@@ -85,7 +85,7 @@ For a relaxing day by the water, Lake Victoria’s beaches offer stunning views 
 <img src="../assets/images/hippo.jpg" alt="hippoPoint">
 
 <ul>
-<li> <i> Location:</i> Kisumu City, on Lake Victoria’s shores.</li>
-<li> <i> Best time to visit:</i> Early mornings or late afternoons for cooler temperatures and better wildlife sightings.</li>
-<li> <i> How to get there:</i> Both locations are within Kisumu City, accessible by public or private transport.</li>
+<li> <b> Location:</b> Kisumu City, on Lake Victoria’s shores.</li>
+<li> <b> Best time to visit:</b> Early mornings or late afternoons for cooler temperatures and better wildlife sightings.</li>
+<li> <b> How to get there:</b> Both locations are within Kisumu City, accessible by public or private transport.</li>
 </ul>
