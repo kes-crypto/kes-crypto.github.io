@@ -11,7 +11,7 @@ toc: true
 
 Western Kenya is a region rich in culture, history, and breathtaking landscapes. It offers visitors the opportunity to experience both the tranquility of nature and the vibrancy of local traditions. From lush forests and waterfalls to historical landmarks, Western Kenya is a must-visit destination for nature lovers, adventurers, and culture enthusiasts alike. Here are some top places to visit.
 
-<h3> <a href="#Kakamega Forest National Reserve">  1. Kakamega Forest National Reserve  </a> </h3>
+<h3 id="kakamega-forest-national-reserve">   1. Kakamega Forest National Reserve </h3>
 Kakamega Forest is the only tropical rainforest in Kenya, boasting an impressive variety of flora and fauna. This ancient forest is home to over 380 species of birds, including the rare Great Blue Turaco, and more than 400 species of butterflies. It’s perfect for bird watchers, nature enthusiasts, and those who seek a peaceful retreat.
 
 <img src="../assets/images/kakamegaForest.jpg" alt="kakamegaForest">
@@ -23,7 +23,7 @@ Kakamega Forest is the only tropical rainforest in Kenya, boasting an impressive
 </ul>
 
 
-<h3><a href="#Kit Mikayi">2. Kit Mikayi  </a> </h3>
+<h3 id="kit-mikayi" >2. Kit Mikayi </h3>
 Kit Mikayi, which translates to "the stone of the first wife" in Luo language, is a large rock formation about 40 meters high. The rock is steeped in Luo mythology and is a significant spiritual site. Visitors can explore the caves and enjoy the scenic beauty of the surrounding landscape.
 
 <img src="../assets/images/kitmikayi.jpg" alt="kitmikayi">
