@@ -85,7 +85,7 @@ For a relaxing day by the water, Lake Victoria’s beaches offer stunning views 
 <img src="../assets/images/hippo.jpg" alt="hippoPoint">
 
 <ul>
-<li> <b> Location:</b> Kisumu City, on Lake Victoria’s shores.</li>
-<li> <b> Best time to visit:</b> Early mornings or late afternoons for cooler temperatures and better wildlife sightings.</li>
-<li> <b> How to get there:</b> Both locations are within Kisumu City, accessible by public or private transport.</li>
+<li> <i> Location:</i> Kisumu City, on Lake Victoria’s shores.</li>
+<li> <i> Best time to visit:</i> Early mornings or late afternoons for cooler temperatures and better wildlife sightings.</li>
+<li> <i> How to get there:</i> Both locations are within Kisumu City, accessible by public or private transport.</li>
 </ul>
