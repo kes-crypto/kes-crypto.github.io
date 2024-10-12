@@ -35,7 +35,7 @@ Kit Mikayi, which translates to "the stone of the first wife" in Luo language, i
   transport or private vehicle. </li>
   </ul>
 
-<h3> 3. Rusinga Island </h3>
+<h3 id="rusinga-island"> 3. Rusinga Island </h3>
 Rusinga Island is located on the northeastern shore of Lake Victoria and is renowned for its serene beaches, historical sites, and birdlife. The island is a fantastic destination for those seeking both relaxation and adventure. It is also home to the annual Rusinga Festival, which celebrates the local culture.
 
 <img src="../assets/images/rusinga.avif" alt="rusinga">
@@ -46,7 +46,7 @@ Rusinga Island is located on the northeastern shore of Lake Victoria and is reno
 <li> <b>How to get there:</b> Drive or take a boat from Mbita Point, which is accessible via a road from Homa Bay.</li>
 </ul>
 
-<h3> 4. Ndere Island National Park</h3>
+<h3 id="ndere-island-national-park"> 4. Ndere Island National Park</h3>
 Located on Lake Victoria, Ndere Island National Park is a tranquil haven for wildlife lovers. The island is home to impalas, monitor lizards, hippos, and a wide variety of birds. Visitors can take a boat trip around the island or go on a guided nature walk to explore its beauty.
 
 <img src="../assets/images/ndere.jpg" alt="ndere">
@@ -56,7 +56,7 @@ Located on Lake Victoria, Ndere Island National Park is a tranquil haven for wil
 <li> <b>Best time to visit:</b> Dry season (June to October) for wildlife viewing.</li>
 <li> <b>How to get there:</b> Take a boat from Kisumu’s Dunga Beach, or drive to the park entrance near Kombewa.</li>
 </ul>
-<h3> 5. Crying Stone of Ilesi </h3>
+<h3 id="crying-stone-of-ilesi"> 5. Crying Stone of Ilesi </h3>
 The Crying Stone, a natural rock formation that resembles a human figure "crying" due to constant water flow, is a unique site. It holds spiritual significance among the Luhya people and is surrounded by myths and legends. The area offers panoramic views and opportunities for photography.
 
 <img src="../assets/images/ilesi.jpg" alt="ilesi">
@@ -67,7 +67,7 @@ The Crying Stone, a natural rock formation that resembles a human figure "crying
 <li> <b>How to get there:</b> Easily accessible via Kakamega-Kisumu Road, about a 30-minute drive from Kakamega town.</li>
 </ul>
 
-<h3> 6. Thimlich Ohinga </h3>
+<h3 id="thimlich-ohinga"> 6. Thimlich Ohinga </h3>
 A UNESCO World Heritage Site, Thimlich Ohinga is an ancient stone-walled settlement dating back over 500 years. It offers insights into the architectural practices of early communities in the region. History buffs will find this site fascinating, with its well-preserved stone walls and historical significance.
 
 <img src="../assets/images/thimlich.jpg" alt="thimlichOhinga">
@@ -78,7 +78,7 @@ A UNESCO World Heritage Site, Thimlich Ohinga is an ancient stone-walled settlem
 <li> <b> How to get there:</b> Drive from Kisumu through Kisii, or take public transport to Migori and hire a local guide. They are really affordable. </li>
 </ul>
 
-<h3> 7. Lake Victoria Beaches (Dunga Beach and Hippo Point) </h3>
+<h3 id="lake-victoria-beaches"> 7. Lake Victoria Beaches  </h3>
 For a relaxing day by the water, Lake Victoria’s beaches offer stunning views and the chance to spot hippos and crocodiles. Dunga Beach is a great spot for boat rides, bird watching, and enjoying fresh fish. Hippo Point is famous for its sunsets and provides excellent photo opportunities.
 
 <img src="../assets/images/dunga.jpg" alt="dunga">
