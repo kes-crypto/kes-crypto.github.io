@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Neymar:The Prince who never became king. "
-author: sal
 categories: [ Football, Neymar ]
 image: assets/images/Neymar.jpg
-toc: true
+
 ---
 <h1>Neymar: How the Prince failed to Be the King</h1>
 Neymar da Silva Santos Júnior, widely known as Neymar, has been one of the most recognizable figures in global football for over a decade. From his meteoric rise at Santos FC to his record-breaking transfer to Paris Saint-Germain (PSG), Neymar has often been regarded as one of the most gifted players of his generation. However, despite his undeniable talent, his career has not reached the levels of global dominance that many had predicted. This article explores how Neymar’s price tag and potential have clashed with reality, leading to his failure to truly ascend to the throne of football’s elite.
@@ -33,6 +32,8 @@ At PSG, Neymar was expected to lead the club to their first UEFA Champions Leagu
 <h2>Injuries and the Struggles of PSG</h2>
 
 <img src="../assets/images/NeymarInjury.jpg" alt="NeyInjury">
+
+
 Neymar’s tenure at PSG has been a mixed bag. On the domestic front, PSG has continued to dominate French football, winning multiple Ligue 1 titles and domestic cups. However, Neymar was not signed to win Ligue 1; PSG’s owners craved Champions League glory, and this is where things began to unravel.
 
 One of the primary reasons Neymar has struggled to fulfill his potential is his recurring injury problems. He has missed significant portions of nearly every season at PSG due to injuries, particularly during the crucial knockout stages of the Champions League. This lack of availability at pivotal moments has hurt both his legacy and PSG’s chances of winning the coveted European title.
