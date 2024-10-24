@@ -54,6 +54,7 @@
 ================================================== -->
 
 <div class="sidebar">    
+	
 </div>   
 <div class="nav-icon">
     <div class="hamburger-bar"></div>
@@ -101,6 +102,20 @@
     <div class="main-content">
         {{ content }}
     </div>
+	<amp-consent id="ConsentManager" layout="nodisplay" type="ConsentManager">
+  <script type="application/json">
+    {
+      "postPromptUI": "postPromptUI",
+      "clientConfig": {
+        "cdid": "3b192f5d31c17",
+        "params": ""
+      }
+    }
+  </script>
+  <div id="postPromptUI">
+     <button on="tap:ConsentManager.prompt()" role="button">Manage privacy settings</button>
+  </div>
+</amp-consent>
 
     {% if site.mailchimp-list %}
     <!-- Newsletter
