@@ -6,7 +6,7 @@ logo: 'assets/images/tour-afrika-high-resolution-logo-grayscale-transparent.png'
 favicon: 'assets/images/tour-afrika-favicon.png'
 baseurl: "https://kes-crypto.github.io"
 url: "https://kes-crypto.github.io"
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-3M9WBT6XVH'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
