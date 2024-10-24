@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "13 Must-Download Apps for Long-Distance Relationships (That Aren't Mainstream Social Media)."
+author: sal
 categories: [ Apps, Relationship, Tech ]
 image: assets/images/relationship.jpg
 toc:true
