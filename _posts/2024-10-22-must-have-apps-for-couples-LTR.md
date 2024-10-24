@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "13 Must-Download Apps for Long-Distance Relationships (That Aren't Mainstream Social Media)."
+title:  "13 Must-Download Apps for Long-Distance Relationships."
 author: sal
-categories: [ Apps, Relationship, Tech ]
+categories: [ Technology, Apps ]
 image: assets/images/relationship.jpg
-toc:true
-
 ---
 Maintaining a long-distance relationship (LDR) can be challenging, but in today’s tech-savvy world, the right apps can help bridge the gap and keep the love alive. Whether you're thousands of miles apart or separated by just a few hours, these carefully selected apps go beyond typical social media platforms like WhatsApp, Facebook, and Instagram, offering unique and intimate ways to stay connected with your partner.
 
