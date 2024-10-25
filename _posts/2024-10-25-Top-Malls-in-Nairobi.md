@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discover the Top Malls in Nairobi: Shopping, Dining, and Entertainment for Every Traveler."
-author: Ngure
+author: "Ngure"
 categories: [ Tourism ]
 tags: [Nairobi, Kenya]
 image: assets/images/NairobiCity.jpg
@@ -90,7 +90,7 @@ Westgate Mall, located in Westlands, is a premier shopping destination focused o
 
 <h2 id="sarit-centre">7. Sarit Centre.</h2>
 
-<img src="../assets/images/SaritCenter.jfif" alt="SaritCenter">
+<img src="../assets/images/SaritCenter.jpg" alt="SaritCenter">
 
 Sarit Centre in Westlands is one of Nairobi's oldest malls, yet it remains one of the busiest and most popular. Its strategic location in the heart of Westlands makes it a hub for both locals and tourists. The mall offers an extensive range of stores, services, and entertainment options.
 
@@ -104,7 +104,7 @@ Sarit Centre in Westlands is one of Nairobi's oldest malls, yet it remains one o
 
 <h2 id="galleria-mall">8. Galleria Mall.</h2>
 
-<img src="../assets/images/GalleriaMall.jfif" alt="GalleriaMall">
+<img src="../assets/images/GalleriaMall.jpg" alt="GalleriaMall">
 
 Galleria Mall, located on Langata Road, is known for its laid-back atmosphere and wide range of dining and shopping options. Its proximity to Nairobi National Park makes it popular among tourists seeking a blend of nature and shopping.
 
