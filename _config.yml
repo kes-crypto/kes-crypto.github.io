@@ -16,30 +16,23 @@ email:
 
 # Authors
 authors:
-  Baz:
-    name: Baz
-    display_name: Baz
+  sal:
+    name: Sal
+    display_name: Sal
     avatar: 'assets/images/avatar-sal.png'
-    email: #
-    web: #
-    twitter: /
-    description: "Description"
-  Cench:
-    name: Cench
-    display_name: Cench    
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/donate/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John    
     avatar: 'assets/images/avatar.png'
-    email: kes@gmail.com
-    web: #
-    twitter: #
-    description: "Description"
-    Ngure:
-    name: Ngure
-    display_name: Ngure
-    avatar: 'assets/images/avatar-sal.png'
-    email: #
-    web: #
-    twitter: /
-    description: "Description"
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+
 
 # Plugins
 plugins:
