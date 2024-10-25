@@ -28,8 +28,7 @@
   gtag('config', 'G-3M9WBT6XVH');
 </script>
 
-<script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/autoblocking/3b192f5d31c17.js" data-cmp-host="c.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="0"></script>
-<script async custom-element="amp-consent" src="https://cdn.ampproject.org/v0/amp-consent-0.1.js"></script><meta name="amp-consent-blocking" content="amp-ad">
+
 	{% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
@@ -102,20 +101,6 @@
     <div class="main-content">
         {{ content }}
     </div>
-	<amp-consent id="ConsentManager" layout="nodisplay" type="ConsentManager">
-  <script type="application/json">
-    {
-      "postPromptUI": "postPromptUI",
-      "clientConfig": {
-        "cdid": "3b192f5d31c17",
-        "params": ""
-      }
-    }
-  </script>
-  <div id="postPromptUI">
-     <button on="tap:ConsentManager.prompt()" role="button">Manage privacy settings</button>
-  </div>
-</amp-consent>
 
     {% if site.mailchimp-list %}
     <!-- Newsletter
