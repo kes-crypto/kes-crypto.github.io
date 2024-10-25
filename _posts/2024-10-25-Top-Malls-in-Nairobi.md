@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discover the Top Malls in Nairobi: Shopping, Dining, and Entertainment for Every Traveler."
-author: sal
+author: Ngure
 categories: [ Tourism ]
 tags: [Nairobi, Kenya]
 image: assets/images/NairobiCity.jpg
