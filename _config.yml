@@ -32,6 +32,14 @@ authors:
     web: #
     twitter: #
     description: "Description"
+    Ngure:
+    name: Ngure
+    display_name: Ngure
+    avatar: 'assets/images/avatar-sal.png'
+    email: #
+    web: #
+    twitter: /
+    description: "Description"
 
 # Plugins
 plugins:
