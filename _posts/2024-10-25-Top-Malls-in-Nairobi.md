@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Discover the Top Malls in Nairobi: Shopping, Dining, and Entertainment for Every Traveler."
-author: sal
+author: Ngure
 categories: [ Tourism ]
 tags: [Nairobi, Kenya]
 image: assets/images/NairobiCity.jpg
-toc:true
+toc: true
 ---
 Nairobi is a city that seamlessly blends the modern with the traditional, and nowhere is this more evident than in its vibrant shopping malls. From the luxurious boutiques of Two Rivers and Village Market to the family-friendly attractions of The Hub Karen and Sarit Centre, Nairobi's malls offer unique experiences for every kind of visitor. Whether you're looking to shop high-end brands, explore artisanal crafts, or enjoy thrilling activities like Ferris wheels and bowling, these malls have it all. Add in diverse dining options, art displays, and family-oriented activities, and Nairobi’s malls become more than just shopping destinations—they’re cultural hotspots and community hubs. This guide covers all you need to know about the best malls in Nairobi, including directions, must-visit stores, dining recommendations, transportation tips, and what to expect. Get ready to discover a new side of Nairobi that’s as exciting as it is eclectic!
 
