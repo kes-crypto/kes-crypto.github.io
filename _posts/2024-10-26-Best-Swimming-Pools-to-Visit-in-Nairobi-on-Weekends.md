@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Best Swimming Pools to Visit in Nairobi on Weekends."
-author: sal
+title:  "10+ Swimming Pools to Visit in Nairobi on Weekends[2024]."
+author: john
 categories: [ Tourism ]
 tags: [Nairobi, Kenya]
 image: assets/images/defautPool.jpg
@@ -20,7 +20,7 @@ Details: This complex offers a variety of pools, including a competition pool, a
 
 <h2 id="chester-house-swimming-pool">2. Chester House Swimming Pool.</h2>
 
-<img src="../assets/images/ChesterPool.jpg" alt="ChesterPool">
+<img src="../assets/images/ChesterPool.jfif" alt="ChesterPool">
 
 Location: Chester House, Koinange Street, CBD
 Price: Kshs 500 for adults, Kshs 300 for children
@@ -38,7 +38,7 @@ Details: This pool is known for its cleanliness and affordability, with many fam
 
 <h2 id="barclays-sports-club-pool">4. Barclays Sports Club Pool.</h2>
 
-<img src="../assets/images/BarclaysPool.jpg" alt="BarclaysPool">
+<img src="../assets/images/BarclaysPool.jfif" alt="BarclaysPool">
 
 Location: Off Thika Road near Utalii Hotel
 Price: Kshs 300 for adults, Kshs 200 for children
