@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Neymar:The Prince who never became king. "
+title:  "Neymar:The Prince who never became king."
+author: john
 categories: [ Football, Neymar ]
 image: assets/images/Neymar.jpg
 
