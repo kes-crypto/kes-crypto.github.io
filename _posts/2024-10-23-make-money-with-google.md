@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Make Money Online with Google: A Comprehensive Guide."
-
+author: john
 categories: [ Finance ]
 tags: [Finance, Tech]
 image: assets/images/google.jpg
