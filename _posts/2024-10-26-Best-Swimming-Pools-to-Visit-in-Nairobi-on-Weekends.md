@@ -4,7 +4,7 @@ title:  "Best Swimming Pools to Visit in Nairobi on Weekends."
 author: sal
 categories: [ Tourism ]
 tags: [Nairobi, Kenya]
-image: assets/images/NairobiCity.jpg
+image: assets/images/defautPool.jpg
 toc: true
 ---
 Nairobi is home to a variety of excellent swimming pools, catering to different budgets and offering a great way to unwind, beat the heat, and enjoy a refreshing weekend. Here’s a curated list of some of the best pools to check out, with information on prices, locations, and the easiest ways to get there.
