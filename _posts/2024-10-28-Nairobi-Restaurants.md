@@ -3,6 +3,7 @@ layout: post
 title: "Affordable Hotels with Delicious Meals in or Near Nairobi CBD"
 date: 2024-10-29
 categories: [Nairobi, Travel, Hotels, Food]
+image: assets/images/NairobiCity.jpg
 tags: [budget hotels, Nairobi CBD, dining, affordable accommodation]
 ---
 
