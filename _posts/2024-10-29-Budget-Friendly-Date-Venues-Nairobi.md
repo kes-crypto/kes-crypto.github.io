@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Places to Take Your Date on a Budget Below Ksh 2000 in Nairobi"
+title: "10+ places to take your date on a budget below Ksh 2000 in Nairobi"
 date: 2024-10-29
 categories: [Nairobi, Budget Travel, Dating, Experiences]
 image: assets/images/NairobiCity.jpg
