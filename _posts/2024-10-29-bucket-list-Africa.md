@@ -3,7 +3,8 @@ layout: post
 title: "Bucket List Experiences in Africa: 30+ Destinations to Experience Before You Die"
 date: 2024-10-30
 categories: [Travel, Bucket List]
-author: Baz
+image: assets/images/AfricaBucketList.jpg
+author: john
 toc: true
 ---
 
@@ -16,8 +17,14 @@ Africa offers a range of incredible experiences from diverse wildlife and ancien
 <h2 id="safari-adventures">Safari Adventures: Encounter Africa’s Wildlife</h2>
 - <h3 id="maasai-mara">1. Maasai Mara (Kenya)</h3>
   Witness the annual wildebeest migration and spot lions, elephants, and cheetahs.
+
+  <img src="../assets/images/MaasaiMara.jpg" alt="MaasaiMara">
+  
 - <h3 id="kruger-national-park">2. Kruger National Park (South Africa)</h3>
   Explore one of Africa’s largest parks and see the “Big Five.”
+
+   <img src="../assets/images/KrugerNationalPark.jpg" alt="KrugerNationalPark">
+   
 - <h3 id="serengeti-national-park">3. Serengeti National Park (Tanzania)</h3>
   Visit year-round for incredible landscapes and wildlife.
 
