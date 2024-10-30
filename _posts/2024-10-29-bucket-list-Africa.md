@@ -104,7 +104,7 @@ Africa offers a range of incredible experiences from diverse wildlife and ancien
 - <h3 id="lalibela-churches">17. Lalibela Churches (Ethiopia)</h3>
   12th-century rock-hewn churches still active for worship.
   
-   <img src="../assets/images/LalibelaChurches.jpg" alt="LalibelaChurches">
+   <img src="https://images.pexels.com/photos/12344991/pexels-photo-12344991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="LalibelaChurches">
    
 - <h3 id="great-zimbabwe-ruins">18. Great Zimbabwe Ruins (Zimbabwe)</h3>
   Ancient stone ruins that tell the story of an early African kingdom.
