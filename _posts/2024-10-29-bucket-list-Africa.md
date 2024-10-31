@@ -104,7 +104,7 @@ Africa offers a range of incredible experiences from diverse wildlife and ancien
 - <h3 id="lalibela-churches">17. Lalibela Churches (Ethiopia)</h3>
   12th-century rock-hewn churches still active for worship.
   
-   <img src="https://images.pexels.com/photos/12344991/pexels-photo-12344991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="LalibelaChurches">
+   <img src="../assets/images/LalibelaChurches.jpg" alt="LalibelaChurches">
    
 - <h3 id="great-zimbabwe-ruins">18. Great Zimbabwe Ruins (Zimbabwe)</h3>
   Ancient stone ruins that tell the story of an early African kingdom.
@@ -118,28 +118,44 @@ Africa offers a range of incredible experiences from diverse wildlife and ancien
 - <h3 id="seychelles">20. Seychelles</h3>
   A paradise of crystal-clear waters, coral reefs, and luxury resorts.
 
-  <img src="../assets/images/Seychelles.jpg" alt="Seychelles">
+  <img src="https://images.pexels.com/photos/2956457/pexels-photo-2956457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Seychelles">
   
 - <h3 id="cape-verde">21. Cape Verde</h3>
   A mix of beaches, Creole culture, and adventure activities.
 
-  <img src="../assets/images/CapeVerde.jpg" alt="CapeVerde">
+  <img src="https://images.pexels.com/photos/28486949/pexels-photo-28486949/free-photo-of-rusty-shipwreck-on-beach-in-pedra-lume-cabo-verde.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="CapeVerde">
   
 <h2 id="adventure-sports">Adventure Sports and Unique Experiences</h2>
 - <h3 id="balloon-ride-serengeti">22. Hot Air Balloon Ride over Serengeti (Tanzania)</h3>
   View the Serengeti’s vast landscapes from above.
+
+  <img src="../assets/images/Zanzibar.jpeg" alt="Zanzibar">
+  
 - <h3 id="diving-red-sea">23. Diving in the Red Sea (Egypt)</h3>
   World-class diving sites with coral reefs and shipwrecks.
+
+  <img src="https://images.pexels.com/photos/7886052/pexels-photo-7886052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="RedSeaDiving">
+  
 - <h3 id="rafting-zambezi">24. White-Water Rafting on the Zambezi River (Zambia)</h3>
   Thrill-seekers can enjoy rafting with intense rapids.
+
+  <img src="https://images.pexels.com/photos/1615766/pexels-photo-1615766.jpeg?auto=compress&cs=tinysrgb&w=600" alt="ZambeziRafting">
 
 <h2 id="african-festivals">African Festivals and Cultural Experiences</h2>
 - <h3 id="timkat-festival">25. Timkat Festival (Ethiopia)</h3>
   A celebration of Epiphany with colorful processions and music.
+
+  <img src="https://images.pexels.com/photos/29155437/pexels-photo-29155437/free-photo-of-renaissance-festival-performer-in-theatrical-costume.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="TimkatFestival">
+  
 - <h3 id="festival-desert">26. Festival in the Desert (Mali)</h3>
   Celebrates Tuareg music and culture near Timbuktu.
+
+  <img src="https://images.pexels.com/photos/1707965/pexels-photo-1707965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Mali">
+  
 - <h3 id="gnaoua-festival">27. Essaouira Gnaoua and World Music Festival (Morocco)</h3>
   Showcasing Morocco’s rich music in a vibrant setting.
 
+  <img src="https://images.pexels.com/photos/27457580/pexels-photo-27457580/free-photo-of-music-marocaine.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Morocco">
+  
 <h2 id="conclusion">Conclusion</h2>
 Africa is a continent rich in diverse cultures, breathtaking landscapes, and historical landmarks. Each experience offers a glimpse into its unique blend of natural beauty and cultural heritage, making Africa a must for every travel enthusiast’s bucket list. Embrace the chance to explore and appreciate its wonders for a journey that will leave you changed.
