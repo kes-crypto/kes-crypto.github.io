@@ -5,6 +5,7 @@ date: 2024-11-02
 categories: tech innovation kenya
 tags: [Kenya, tech hubs, East Africa, startups, innovation]
 author: john
+image: assets/images/KenyaComputers.jpg
 excerpt: "Explore how Kenya's tech hubs are fostering innovation and reshaping the region's technology landscape."
 ---
 
@@ -24,9 +25,17 @@ Nairobi, often dubbed the "Silicon Savannah," is the epicenter of Kenya's tech r
 
 #### Key Players in Nairobi’s Tech Landscape
 
-1. **iHub**: Established in 2010, iHub has been at the forefront of Kenya's tech scene, providing a collaborative space for tech enthusiasts, developers, and entrepreneurs.
-2. **Nailab**: Focused on nurturing early-stage tech startups, Nailab offers mentorship, networking opportunities, and essential resources necessary for growth.
-3. **Gearbox**: As a makerspace, Gearbox provides prototyping and hardware development services, allowing innovators to work on physical tech products, which is a relatively unique offering in Nairobi’s digital-heavy environment.
+1. <b>**iHub**:</b> Established in 2010, iHub has been at the forefront of Kenya's tech scene, providing a collaborative space for tech enthusiasts, developers, and entrepreneurs.
+
+<img src="https://lh3.googleusercontent.com/p/AF1QipNdpqSyH3zyjgDfJga64d89tZX3HcTmBjuHSCPr=s680-w680-h510" alt="Nairobi's iHub">
+  
+
+2. <b>**Nailab**:</b> Focused on nurturing early-stage tech startups, Nailab offers mentorship, networking opportunities, and essential resources necessary for growth.
+
+<img src="https://lh3.googleusercontent.com/p/AF1QipPLHn9Ey-VmysPDLzfFzEFnTSEztdk_W5QzQflO=s680-w680-h510" alt="Nailab">
+
+3. <b>**Gearbox**:</b> As a makerspace, Gearbox provides prototyping and hardware development services, allowing innovators to work on physical tech products, which is a relatively unique offering in Nairobi’s digital-heavy environment.
+
 
 Nairobi’s tech scene also benefits from partnerships with global companies like **Google**, **Microsoft**, and **IBM**, which frequently sponsor local events and programs aimed at fostering talent and promoting entrepreneurship.
 
@@ -39,6 +48,8 @@ While Nairobi remains the flagship tech hub, cities like Kisumu and Mombasa are 
 Kisumu is increasingly recognized for its focus on **health tech** and **agritech** solutions. The Kisumu Innovation Center promotes local talent and encourages tech-driven solutions to regional challenges. The center hosts events, workshops, and mentoring programs to develop solutions specific to the unique challenges of the area.
 
 - **Notable Startup: SokoFresh** - This platform connects farmers directly to consumers, improving market access and reducing food waste.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-QKGdRvbLHfrcTlqv62dcjWViAtQrLsbew&s" alt="Sokofresh Kisumu">
 
 #### Mombasa’s Focus on Maritime and Tourism Tech
 
