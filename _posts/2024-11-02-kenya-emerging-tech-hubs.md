@@ -123,6 +123,8 @@ The financial sector’s digital transformation has driven **financial inclusivi
 - **Digital Learning Tools**: Many schools now incorporate digital content to improve engagement and learning outcomes.
 - **Mobile Classrooms**: Some initiatives use mobile apps to bring lessons to students in remote areas, empowering them with essential knowledge and skills.
 
+<img src="https://kytabu.africa/wp-content/uploads/2023/10/IMG_20210524_164656-scaled-2.jpg" alt="Kytabu">
+
 ### 4.4 Health
 
 Digital health solutions, including telemedicine and health apps, have become essential, especially for remote consultations and healthcare access during the pandemic.
