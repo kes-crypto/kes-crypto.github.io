@@ -63,12 +63,16 @@ Kenya's vibrant innovation landscape is home to numerous startups disrupting tra
 
 ### 2.1 Fintech Revolution
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvw3WZWpKlppwLkp0KSok3GGxd25Xz7hFCtw&s" alt="mpesa">
+
 Kenya’s fintech landscape, largely driven by mobile technology, is perhaps the most advanced in Africa. Kenya’s fintech solutions have gained global attention for pioneering innovations that serve as models for other developing regions.
 
 1. **M-Pesa**: Launched by Safaricom in 2007, M-Pesa revolutionized mobile money transfer and remains a global benchmark for fintech innovations. Its impact on financial inclusion is immense, as it brought banking access to remote, unbanked populations.
 2. **Kobo360**: An African logistics platform that leverages technology to optimize supply chain processes, Kobo360 connects truck drivers with businesses in real-time, improving efficiency in freight transport and lowering costs for users.
 
 ### 2.2 Agritech Innovations
+
+<img src="https://images.pexels.com/photos/10915468/pexels-photo-10915468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Kericho tea farm aerial view">
 
 Agriculture is the backbone of Kenya’s economy, and agritech startups are enhancing productivity and sustainability by providing farmers with better access to markets, predictive analytics, and financial solutions.
 
