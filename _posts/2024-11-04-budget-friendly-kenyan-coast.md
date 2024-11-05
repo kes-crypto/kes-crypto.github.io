@@ -4,7 +4,8 @@ title: "Top Budget-Friendly Destinations on the Kenyan Coast"
 date: 2024-11-04
 categories: travel kenya
 tags: [Kenyan Coast, budget travel, destinations, Mombasa, Diani, Lamu]
-author: "Your Name"
+author: sal
+image: "https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 excerpt: "Explore the best budget-friendly destinations along the Kenyan coast, from Mombasa to Lamu, with tips on affordable places to stay, eat, and explore."
 ---
 
