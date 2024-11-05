@@ -5,6 +5,8 @@ date: 2024-11-03
 categories: culture history
 tags: [Swahili, East Africa, language, cuisine, architecture]
 author: sal
+image: "https://images.pexels.com/photos/17732689/pexels-photo-17732689/free-photo-of-an-aerial-view-of-a-beach-and-city.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
 excerpt: "Explore the influence of Swahili culture on Eastern Africa through its language, cuisine, architecture, and historical sites like Lamu and Zanzibar."
 ---
 
