@@ -5,7 +5,7 @@ date: 2024-11-06
 categories: travel kenya
 tags: [Kenya, hidden gems, eco-tourism, Chalbi Desert, Lake Turkana, Kakamega Forest]
 author: baz
-image:""
+image: "https://images.pexels.com/photos/2818259/pexels-photo-2818259.jpeg?auto=compress&cs=tinysrgb&w=600"
 excerpt: "Discover Kenya's lesser-known destinations in this travel guide, from the mystical Chalbi Desert to the rich biodiversity of Kakamega Forest."
 ---
 
