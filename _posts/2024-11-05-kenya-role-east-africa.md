@@ -5,6 +5,7 @@ date: 2024-11-05
 categories: politics east-africa
 tags: [Kenya, East African politics, regional stability, peacekeeping, EAC]
 author: sal
+image: "https://images.pexels.com/photos/8828404/pexels-photo-8828404.jpeg?auto=compress&cs=tinysrgb&w=600"
 
 excerpt: "Explore Kenya's influential role in East African politics, peacekeeping, economic integration, and its contributions to regional stability."
 ---
