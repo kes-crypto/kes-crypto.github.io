@@ -39,6 +39,8 @@ Cattle are central to the Maasai economy and culture:
 - A form of wealth and currency, often exchanged as dowries during marriage negotiations.
 - Sacrificed during important rituals and celebrations.
 
+<img src="https://images.pexels.com/photos/4314681/pexels-photo-4314681.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Maasai cattle">
+
 #### **Oral Traditions and Storytelling**
 The Maasai have a rich oral history, passed down through generations via songs, proverbs, and storytelling. These narratives often center on moral lessons, the natural environment, and the relationship between humans and cattle.
 
@@ -53,12 +55,16 @@ The brightly colored shukas (traditional wraps) are the Maasai’s signature att
 - **Practical Use**: Protects against the sun and chilly highland winds.
 - **Cultural Significance**: Red is considered a protective color and symbolizes bravery and strength.
 
+  <img src="https://images.pexels.com/photos/7637393/pexels-photo-7637393.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Maasai shuka">
+
 #### **Beadwork – Art with Meaning**
 Maasai beadwork is not only visually stunning but also deeply symbolic. Each color and pattern carries a meaning:
 - **Red**: Bravery, strength, and unity.
 - **Blue**: Energy and the sky.
 - **Green**: Health and the land.
 Women create intricate beadwork used in necklaces, bracelets, and earrings, which play a central role in ceremonies and daily life.
+
+<img src="https://images.pexels.com/photos/13033075/pexels-photo-13033075.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Maasai beads">
 
 #### **Diet and Cuisine**
 The Maasai diet is simple but deeply tied to their pastoralist lifestyle:
@@ -71,6 +77,8 @@ The Maasai diet is simple but deeply tied to their pastoralist lifestyle:
 ### **Sustainable Tourism in Maasai Mara**
 
 Tourism in Maasai areas, particularly the Maasai Mara, has become a double-edged sword. While it brings economic benefits, it also risks commodifying their culture and disrupting traditional ways of life. Sustainable tourism offers a way forward.
+
+<img src="https://images.pexels.com/photos/20179675/pexels-photo-20179675/free-photo-of-hot-air-balloons-on-the-ground.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Maasai Mara">
 
 #### **Ethical Ways to Engage**
 To experience Maasai culture respectfully:
