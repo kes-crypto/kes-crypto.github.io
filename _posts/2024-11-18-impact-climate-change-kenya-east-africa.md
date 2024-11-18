@@ -4,7 +4,8 @@ title: "The Impact of Climate Change on Kenya and East Africa’s Livelihoods"
 date: 2024-11-07
 categories: environment climate-change
 tags: [Kenya, East Africa, climate change, agriculture, wildlife, resilience]
-author: "Your Name"
+author: Baz
+image: "https://images.pexels.com/photos/221012/pexels-photo-221012.jpeg?auto=compress&cs=tinysrgb&w=600"
 excerpt: "Explore how climate change is reshaping agriculture, wildlife, and human settlements in Kenya and East Africa, and the initiatives addressing these challenges."
 ---
 
