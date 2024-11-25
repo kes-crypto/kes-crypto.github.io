@@ -5,6 +5,7 @@ date: 2024-11-23
 categories: travel destinations
 tags: [travel, must-visit countries, adventure, world exploration]
 author: Baz
+image: "https://i.pinimg.com/736x/43/28/80/432880b4a91ae856455b6829ca657b7e.jpg"
 excerpt: "Discover the seven countries every traveler should visit, offering a blend of culture, nature, and adventure to enrich your globetrotting experience."
 ---
 
