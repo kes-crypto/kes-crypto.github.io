@@ -43,7 +43,7 @@ Traveling opens your eyes to the beauty and diversity of the world. Whether you'
 
 ## 1. Italy: A Blend of History and Cuisine {#italy}
 
-![Italy - Colosseum](https://www.pexels.com/photo/colosseum-in-rome-169193/)  
+![Italy - Colosseum](https://i.pinimg.com/736x/a2/03/0c/a2030c58de78d4422779b0c8677a447e.jpg)  
 *Image Credit: Pexels*
 
 ### 1.1 Iconic Cities to Explore {#italy-cities}
@@ -62,8 +62,8 @@ No trip to Italy is complete without indulging in its food. Enjoy authentic pizz
 
 ## 2. Japan: The Land of the Rising Sun {#japan}
 
-![Japan - Mount Fuji](https://www.pexels.com/photo/mount-fuji-with-cherry-blossoms-617255/)  
-*Image Credit: Pexels*
+![Japan - Mount Fuji](https://i.pinimg.com/736x/1b/54/b6/1b54b6895b47b9c92121125505caf63a.jpg)  
+*Image Credit: Pinterest*
 
 ### 2.1 Traditional and Modern Fusion {#japan-culture}
 
