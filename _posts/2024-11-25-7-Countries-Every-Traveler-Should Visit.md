@@ -77,7 +77,7 @@ Experience the beauty of cherry blossoms in spring, hike Mount Fuji, or relax in
 
 ## 3. Kenya: Safari and Stunning Landscapes {#kenya}
 
-![Kenya - Safari](https://www.pexels.com/photo/elephant-in-safari-247376/)  
+![Kenya - Safari](https://i.pinimg.com/474x/ef/8b/e0/ef8be0961b42fdcdae9711ee7d60e125.jpg)  
 *Image Credit: Pexels*
 
 ### 3.1 The Big Five and Beyond {#kenya-safari}
@@ -92,7 +92,7 @@ Head to Diani Beach for white sands and turquoise waters, or explore Swahili cul
 
 ## 4. New Zealand: A Paradise for Adventure Seekers {#new-zealand}
 
-![New Zealand - Mountains and Lake](https://www.pexels.com/photo/mountain-and-lake-landscape-753626/)  
+![New Zealand - Mountains and Lake](https://i.pinimg.com/236x/f0/67/1f/f0671fbc040ad131372ff600b9015494.jpg)  
 *Image Credit: Pexels*
 
 ### 4.1 Adventure Activities {#nz-adventures}
@@ -107,7 +107,7 @@ Explore stunning landscapes seen in "The Lord of the Rings" films, including Mil
 
 ## 5. Peru: Home to Ancient Mysteries {#peru}
 
-![Peru - Machu Picchu](https://www.pexels.com/photo/machu-picchu-1039892/)  
+![Peru - Machu Picchu](https://i.pinimg.com/236x/44/e6/3f/44e63fd319fe4ca864502c5819b45a6e.jpg)  
 *Image Credit: Pexels*
 
 ### 5.1 Machu Picchu and the Inca Trail {#peru-machu-picchu}
@@ -122,7 +122,7 @@ Enjoy vibrant festivals, traditional Peruvian dishes like ceviche, and bustling 
 
 ## 6. Iceland: The Land of Fire and Ice {#iceland}
 
-![Iceland - Northern Lights](https://www.pexels.com/photo/northern-lights-over-mountains-1763075/)  
+![Iceland - Northern Lights](https://i.pinimg.com/236x/27/0e/c1/270ec1fa0f6f6892a47de7d818c36e54.jpg)  
 *Image Credit: Pexels*
 
 ### 6.1 Natural Phenomena {#iceland-nature}
@@ -137,8 +137,8 @@ Go whale watching, soak in the Blue Lagoon, or trek through Þingvellir National
 
 ## 7. Thailand: A Tropical Getaway {#thailand}
 
-![Thailand - Beaches](https://www.pexels.com/photo/boats-on-a-thailand-beach-678750/)  
-*Image Credit: Pexels*
+![Thailand - Beaches](https://i.pinimg.com/236x/5f/9c/f8/5f9cf8d0b41a8676ff89177269c1391d.jpg)  
+*Image Credit: Pinterest*
 
 ### 7.1 Temples and Traditions {#thailand-temples}
 
